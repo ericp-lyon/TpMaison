@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TpMaison</string>
+
+    <string name="test"><![CDATA[<b> Bonjour je m appelle bouton1</br>,<br> je suis né le 21/01/2018</b>]]></string>
+
+    <string name="testUrl">https://fr.wikipedia.org/wiki/Bouton</string>
+</resources>
